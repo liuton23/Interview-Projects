@@ -1,2 +1,2 @@
 ## Interview Projects
-This repository includes some of the projects I did during the interview process of various companies
+This repository includes some of the projects I did during the interview processes of various companies
